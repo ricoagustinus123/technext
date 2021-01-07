@@ -1,0 +1,21 @@
+.navbar {
+  width: 100vw;
+  height: 10vh;
+  background-color: rgb(194, 126, 1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  left: 0;
+  color: white;
+  padding: 0 10%;
+}
+.brand {
+  font-family: "Lobster", cursive;
+}
+.menu li {
+  display: flex;
+  gap: 10px;
+  font-size: 1.5rem;
+}
