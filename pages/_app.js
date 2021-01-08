@@ -1,5 +1,5 @@
 import "../styles/main.css"
-import Layout from "../components/Layout"
+import Layout from "../technext/components/Layout"
 import Head from "next/head"
 export default function App({Component,PageProps}){
     return(
